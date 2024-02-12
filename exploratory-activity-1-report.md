@@ -1,1 +1,1 @@
-** Exploratory Activity 1 **
+**Exploratory Activity 1**
