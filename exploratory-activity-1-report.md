@@ -10,6 +10,9 @@
 ## Section 3: What are the functionalities of the package/library?
 There are different functions that turtle offers some of which include `forward()`, `left()`, `home()`, `pos()`, `clearscreen()`, `color()`, `fillcolor()`, `begin_fill()`, `goto()`, `setheading()` and many more [1]. 
 
+<img width="756" alt="image" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-1-invisible-wind-pavitra/assets/113079611/5d14ee82-a369-4c03-8760-7073efa50105">
+
+
 ## Section 4: When was it created?
 
 ## Section 5: Why did you select this package/library?
