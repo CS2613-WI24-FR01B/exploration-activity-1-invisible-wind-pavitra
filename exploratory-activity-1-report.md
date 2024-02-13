@@ -20,10 +20,13 @@ There are different functions that turtle offers some of which include:
 
 `clearscreen()`: This is used to "help to clear the window [1]".
 
-`color()`: 
-`fillcolor()`:
-`begin_fill()`:
-`goto()`:
+`color()`: This is used to "return or set pencolor and fillcolor [1]".
+
+`pendown()`: This is used to "pull the pen down - drawing when moving [1]".
+
+`penup()`: This is used to "pull the pen up - no drawing when moving [1]".
+
+`goto()`: This is used to "move turtle to an absolute position [1]". 
 
 `setheading()`: This is used to "set the orientation of the turtle to to_angle [1]".
 
