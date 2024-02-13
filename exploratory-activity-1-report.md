@@ -30,7 +30,7 @@ a = input(" ")
 ```
 
 
-<img width="300" alt="image" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-1-invisible-wind-pavitra/assets/113079611/5d14ee82-a369-4c03-8760-7073efa50105">
+<img width="500" alt="image" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-1-invisible-wind-pavitra/assets/113079611/5d14ee82-a369-4c03-8760-7073efa50105">
 
 
 ## Section 4: When was it created?
