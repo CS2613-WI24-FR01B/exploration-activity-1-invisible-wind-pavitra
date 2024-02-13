@@ -9,8 +9,28 @@
 
 ## Section 3: What are the functionalities of the package/library?
 There are different functions that turtle offers some of which include `forward()`, `left()`, `home()`, `pos()`, `clearscreen()`, `color()`, `fillcolor()`, `begin_fill()`, `goto()`, `setheading()` and many more [1]. 
+For example, the code below creates a square in the for loop and uses `goto()` to go to a different location on the screen and create a new square.
+```
+import turtle
+turtle = turtle.Turtle()
 
-<img width="756" alt="image" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-1-invisible-wind-pavitra/assets/113079611/5d14ee82-a369-4c03-8760-7073efa50105">
+for i in range(0, 4):
+	turtle.right(90)
+	turtle.forward(100)
+
+turtle.penup()
+turtle.goto(200, 200)
+
+turtle.pendown()
+for i in range(0, 4):
+	turtle.right(90)
+	turtle.forward(100)
+
+a = input(" ")
+```
+
+
+<img width="300" alt="image" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-1-invisible-wind-pavitra/assets/113079611/5d14ee82-a369-4c03-8760-7073efa50105">
 
 
 ## Section 4: When was it created?
