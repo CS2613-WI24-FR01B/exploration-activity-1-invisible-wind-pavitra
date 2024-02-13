@@ -9,15 +9,22 @@
 
 ## Section 3: What are the functionalities of the package/library?
 There are different functions that turtle offers some of which include:
+
 `forward(100)`: This is used to "send the turtle foeward 100 steps [1]".
+
 `left(120)`: This is used to "turn 120 degrees left (anti-clockwise) [1]".
+
 `home()`: This is used to "send your turtle back to its starting-point [1]".
+
 `pos()`: This is used to know the "home position [1]" of the turtle [1]. 
+
 `clearscreen()`: This is used to "help to clear the window [1]".
+
 `color()`: 
 `fillcolor()`:
 `begin_fill()`:
 `goto()`:
+
 `setheading()`: This is used to "set the orientation of the turtle to to_angle [1]".
 
 For example, the code below creates a square in the for loop and uses `goto()` to go to a different location on the screen and create a new square.
