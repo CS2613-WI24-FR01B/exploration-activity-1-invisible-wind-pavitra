@@ -54,13 +54,16 @@ for i in range(0, 4):
 
 
 ## Section 4: When was it created?
+The turtle library was "developer by Wally Feurzeig, Seymour Parpet and Cynthina Slolomon in 1967 [4]". 
 
 ## Section 5: Why did you select this package/library?
+I selected this library because I am fascinated by the creation of shaped by coding. The Turtle library can be used to "create graphics, pictures, and games [4]".  
 
 ## Section 6: How did learning the package/library influence your learning of the language?
+Learning this library in Python influenced my learning of Python because I got an in-depth understanding of the way python loops and statements can be used in an interactive way. I understood that coding in python using turtle can be used to "create graphics, pictures, and games [4]". Overall, learning Turtle helped me better understand the fundamentals of programming in python and it also widened my knowledge in terms of combining turtle functions and python language fundamentals like loops and variables.
 
 ## Section 7: How was your overall experience with the package/library?
-
+Overall, my experience was great. The application program that I created using turtle really sharpened my understanding of this library and python. It was a great learning experience because I got an opportunity to learn a new library and I combined the functions offered by the library with the programming fundamentals of python to build an exciting program that creates graphs of linear functions, given their slope and y-intercept. 
 
 
 
@@ -73,6 +76,8 @@ References:
 [2] https://realpython.com/beginners-guide-python-turtle/ 
 
 [3] https://www.boardinfinity.com/blog/turtle-in-python/
+
+[4] https://www.javatpoint.com/python-turtle-programming#:~:text=Turtle%20is%20a%20Python%20library,the%20original%20Logo%20programming%20language. 
 
 
 
